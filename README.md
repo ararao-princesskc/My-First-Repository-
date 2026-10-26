@@ -13,3 +13,5 @@
 - Skill 3: I want to understand computer systems, networking, and cybersecurity.
 ## My Favorite Technology
 My favorite technology is a laptop because it helps me study, complete school activities, learn programming, and explore new technologies. It makes my tasks easier and helps me improve my computer skills.
+## Reflection
+I learned that Git and GitHub are useful tools for managing projects and tracking changes. If I accidentally delete or change something, I can check my previous commits and recover an earlier version. This activity helped me understand the importance of saving my work properly and managing my projects carefully.
