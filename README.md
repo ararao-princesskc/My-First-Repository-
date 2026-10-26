@@ -3,3 +3,7 @@
 **COURSE** Introduction to Computing
 **Learning Goal** I am learning how Git and GitHub help people track changes and manage projects.
 **My first commit** This repository is my first activity in learning version control.
+**What I learned 
+- Git tracks changes to files.
+- GitHub posts repositories online.
+- Commits record changes in the project history.
